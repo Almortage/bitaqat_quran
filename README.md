@@ -69,7 +69,7 @@
 
 
 
-# تفاصيل البيانات في ملف الـ json 
+# تفاصيل البيانات في ملف الـ json :
 
 <br>
 
@@ -126,11 +126,11 @@
 
 
 <div align="center"> 
-    <b>مثال لملف json</b>
+    <b>مثال للبيانات  من ملف الـ json</b>
     <br><br>
     <img src="/Github/1.png" alt="albitaqat">
     <br><br>
-    <b>مثال لصور</b>
+    <b>مثال لصورة</b>
     <br><br>
     <img src="/Github/2.jpg" alt="albitaqat">
     <br><br>
@@ -138,7 +138,7 @@
 </div>
 
 
-# تنزيل 
+# تنزيل الملفات :
 
 <br><br>
 
